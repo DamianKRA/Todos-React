@@ -1,0 +1,34 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway&display=swap");
+
+* {
+  font-family: 'Raleway', sans-serif;
+}
+
+.add {
+  background-color: #4400ff;
+}
+
+.darkBackground {
+  background-color: #1d1d1d;
+  color: white;
+}
+
+.jumbotron {
+  color: black;
+}
+
+.tableStyle {
+  color: white;
+}
+
+.AppComp {
+  position: relative;
+}
+
+.ChangeStyleComp {
+  text-align: right;
+  font-size: 0.7em;
+  position: absolute;
+  top: 0;
+  right: 15px;
+}
