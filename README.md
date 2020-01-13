@@ -12,8 +12,8 @@ Jest ona bardzo prosta w działaniu. Składa się z dwóch części:
 1. Lista zadań `src/List.js`
 2. Menu `src/Menu.js`
 
-![Strona startowa- jasny motyw](/images/index light small.jpg)
-![Strona startowa- ciemny motyw](/images/index dark small.jpg)
+![Strona startowa- jasny motyw](/images/index_light_small.jpg)
+![Strona startowa- ciemny motyw](/images/index_dark_small.jpg)
 
 ### Lista
 Na starcie lista składa się z trzech zadań, które są importowane z pliku `src/todos.json`. Każdy element listy jest klikalny.
