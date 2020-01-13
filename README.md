@@ -12,8 +12,8 @@ Jest ona bardzo prosta w działaniu. Składa się z dwóch części:
 1. Lista zadań `src/List.js`
 2. Menu `src/Menu.js`
 
-![Strona startowa- jasny motyw](/images/index_light.png)
-![Strona startowa- ciemny motyw](/images/index_dark.png)
+![Strona startowa- jasny motyw](/images/index light small.jpg)
+![Strona startowa- ciemny motyw](/images/index dark small.jpg)
 
 ### Lista
 Na starcie lista składa się z trzech zadań, które są importowane z pliku `src/todos.json`. Każdy element listy jest klikalny.
@@ -24,8 +24,8 @@ Menu składa się z trzech opcji:
 2. Usuwanie `src/MenuComps/Remove.js`
 3. Edytowanie `src/MenuComps/Edit.js`
 
-![Dodawanie](/images/add.png)
-![Usuwanie](/images/remove.png)
-![Edytowanie](/images/edit.png)
+![Dodawanie](/images/start_add_small.jpg)
+![Usuwanie](/images/start_remove_small.jpg)
+![Edytowanie](/images/start_edit_small.jpg)
 
 Aby usunąć/ edytować wybrany element należy kliknąć go na liście lub wpisać jego numer w polu tekstowym.
